@@ -17,5 +17,5 @@ g++ bank.cpp -o bank
 ./bank
 
 ### Usage
-* To create an account, enter 2 into terminal and provide a username and password. You can then use this login info to login. Even when exiting the program, your login information will be saved so you can log back in at anytime!
+* To create an account, enter 2 into terminal. It will prompt you to provide a username and password. You can then use this login info to login. Even when exiting the program, your login information will be saved so you can log back in at anytime!
 * Once successfully logged in, you have a couple of account options. Enter 1 to withdraw funds, 2 to deposit funds, 3 to close your account, and 4 to logout.
